@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+nav{
+    height: 70px;
+    display: flex;
+    padding: 20px 36px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+}
+section{
+    padding: 20px;
+    margin-left:75px ;
+    margin-top: 25px;
+    align-content: center;
+    
+    flex-direction: left;
+    
+}
+.section--h1{
+    
+    margin-bottom: 0px;
+}
+.section--logo{
+    align-self: center;
+}
+.section--p{
+    
+    margin-top:0px;
+    
+}
+.section--second{
+    margin-top: -14px;
+}
+.card{
+/* margin-left: 100px; */
+
+}
+.patan{
+    border-radius: 9px;
+}
+
+.government{
+    display: flex;
+    justify-content: space-around;
+}
+
+.private{
+    display: flex;
+    justify-content: space-around;
+}
